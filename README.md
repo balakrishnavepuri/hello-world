@@ -1,5 +1,5 @@
 # maven-project
 maven project
-Simple Maven Project
+Simple Maven project
 deploting war file to tomcat server
 hello HELLO
